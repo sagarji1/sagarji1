@@ -1,13 +1,72 @@
-<h1 align="center">Hi 👋, I'm YASH</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# **🚀 Hey, I'm Yash!**  
+### **MERN Stack Developer **  
 
-- 🔭 I’m currently working on [Webinex](https://github.com/sagarji1/Webinex)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF9100&width=700&lines=Full-Stack+Web+Developer;Passionate+about+building+scalable+apps;Tech+Community+Lead+at+Tech+Spark;Open-Source+Contributor+%26+Hackathon+Enthusiast)  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.https://www.linkedin.com/in/yash-sagar/com/in/yash-sagar-7a56332b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.https://www.linkedin.com/in/yash-sagar/com/in/yash-sagar-7a56332b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/yashu__195/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/yashu__195/" height="30" width="40" /></a>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212458372-3f09e546-7f6e-49bc-a5ef-97b64a0978f0.gif" width="80%">
+</div>
+
+---
+
+## **👨‍💻 About Me**
+🔹 **Web Developer specializing in the MERN Stack**  
+🔹 **Passionate about Open Source, DSA, & Full-Stack Development**  
+🔹 **Building Scalable Web Apps with Clean Code**  
+🔹 **Always learning & exploring new technologies**  
+
+📩 **Let's connect:** [rahulchaudharyji2@gmail.com](mailto:yashsagar1907@gmail.com)  
+
+---
+
+## **🛠 Tech Stack**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,nodejs,express,mongodb,tailwind,mui,firebase,git,github" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
+
+## **📈 GitHub Stats**
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sagarji1&show_icons=true&theme=radical&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sagarji1&theme=radical" />
+</p>
+
+📊 **Top Languages Used:**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarji1&layout=compact&theme=radical&langs_count=8" />
+</p>
+
+---
+
+## **🐍 Contribution Snake**
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
+
+---
+
+## **📣 Connect With Me**
+<p align="center">
+  <a href="https://www.linkedin.com/in/yash-sagar/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  
+  <a href="mailto:yashsagar1907@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  
+  <a href="https://github.com/sagarji1">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
+
+---
+
+## **📌 Fun Fact**
+💡 I love **building projects** that solve real-world problems!  
+🎮 When I’m not coding, I enjoy **gaming, reading tech blogs, and exploring AI**.  
+
+---
+
+🔥 **If you find my work useful, consider giving a ⭐ to my repositories!**  
+💻 **Happy Coding!** 🚀  
