@@ -15,7 +15,7 @@
 🔹 **Building Scalable Web Apps with Clean Code**  
 🔹 **Always learning & exploring new technologies**  
 
-📩 **Let's connect:** [rahulchaudharyji2@gmail.com](mailto:yashsagar1907@gmail.com)  
+📩 **Let's connect:** [yashsagar1907@gmail.com](mailto:yashsagar1907@gmail.com)  
 
 ---
 
